@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=520&duration=2500&color=00C9A7&lines=Hi%2C+I'm+%F0%9F%92%96+%3Cstrong%3EMegha+Patel%3C%2Fstrong%3E!;I'm+a+Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%7C+Cloud+Ready+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Megha+Patel!;I'm+a+Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%7C+Cloud+Ready+%7C+Problem+Solver" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,9 +11,9 @@
 ---
 
 ### 💡 About Me  
-👩‍💻 **Software Engineer** passionate about building **scalable, intelligent, and user-centric applications**.  
+👩‍💻 Software Engineer passionate about crafting **scalable, intelligent, and user-centric applications**.  
 ☁️ Experienced in **Full-Stack Development, Cloud Engineering, and Automation**.  
-🎯 My goal is to transform ideas into reliable digital solutions that make life easier and smarter.  
+🎯 My goal is to turn ideas into reliable digital solutions that make life easier and smarter.  
 
 ---
 
