@@ -5,7 +5,7 @@
   <a href="mailto:megha2707patel@gmail.com"><img src="https://img.shields.io/badge/Email-megha2707patel%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/meghapatel27/"><img src="https://img.shields.io/badge/LinkedIn-meghapatel27-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://megha-patel-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-meghapatel.portfolio-purple?style=flat-square&logo=vercel"></a>
-  <a href="https://github.com/Megha2707Patel"><img src="https://img.shields.io/github/followers/Megha2707Patel?label=Follow&style=social"></a>
+ 
 </p>
 
 ---
