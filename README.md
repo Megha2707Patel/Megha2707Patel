@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:megha.patel3527@gmail.com"><img src="https://img.shields.io/badge/Email-megha2707patel%40gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="mailto:megha.patel3527@gmail.com"><img src="https://img.shields.io/badge/Email-megha.patel3527%40gmail.com-red?style=flat-square&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/meghapatel27/"><img src="https://img.shields.io/badge/LinkedIn-meghapatel27-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://megha-patel-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-meghapatel.dev-purple?style=flat-square&logo=vercel"></a>
 </p>
